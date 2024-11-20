@@ -1,0 +1,81 @@
+<mjml>
+  <mj-head>
+    <mj-title>CTE-ESJAL</mj-title>
+  </mj-head>
+  <mj-body background-color="#ede9e8">
+    <mj-raw>
+      <!-- Top Bar -->
+    </mj-raw>
+    
+    
+    
+    
+    <mj-section background-color="#ede9e8" padding="0 25px">
+      <mj-column background-color="#ede9e8"	>
+        <mj-text color="#000" align="center" font-family="UniversLTStd, Arial" font-size="13px">Abrir no <a href="https://joseaugustogoncalves.github.io/cte-esjal-newsletter-1/" style="color:#000;" target="_blank">browser</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+		<mj-section background-color="#ede9e8" padding="0">
+      <mj-column width="100%" background-color="#ede9e8">
+         <mj-image align="center" width="600px" src="img/barra_cte.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ede9e8" padding="0">
+      <mj-column width="100%">
+         <mj-text font-weight="bold" align="left" font-size="18px" color="#000" font-family="helvetica">CTE <i>Newsletter</i> #EX-1 (xxx 24)</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ede9e8" padding="0">
+      <mj-column width="100%">
+         <mj-image align="center" width="600px" src="img/header.png"></mj-image>
+      </mj-column>
+    </mj-section>
+	
+    
+    
+    <mj-section background-color="#ede9e8" padding="0">
+      <mj-column>
+        <mj-text padding="0 25px" font-size="14px">
+          <p style="color:##151e23; font-size:12px line-height: 18px">
+          <p style="color:#151e23; line-height: 19px">
+          
+          </p>
+                </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    
+    
+      
+      
+      
+      
+      
+      
+    
+      
+      
+      
+      
+    <mj-section background-color="#ede9e8" padding-top="0px" padding-bottom="0px">	
+      <mj-column width="100%">
+        <mj-image href="https://www.esjaloures.org/" width="600px" src="img/barra_parceiros_prr_
+esjal.png" align="center" border="none" alt="Parceiro PRR"></mj-image>
+      </mj-column>
+    </mj-section>
+     <mj-section padding="0px 25px">	
+      <mj-column background-color="#507c84">
+        <mj-text mj-class="footer-text" align="center" padding="20px">
+         
+          <p style="Margin:0; padding-bottom:0px; font-size:11px; line-height:15px; margin-bottom:5px; color:#FFF; font-family: 'Open Sans', 'Raleway', Arial, Helvetica, sans-serif;">
+            <span style="color:#FFF; !important; text-decoration:none;">
+              <strong>Escola Secundária de José Afonso (Escola sede)</strong>
+              <br />RUA da REPÚBLICA 2670 - 468 LOURES | Tel. +351 21 982 71 10 | Email geral_cte@esjaloures.org
+            </span>
+            <br />
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
