@@ -12,7 +12,7 @@
     
     <mj-section background-color="#ede9e8">
       <mj-column background-color="#ede9e8"	>
-        <mj-text color="#000" align="center" font-family="UniversLTStd, Arial" font-size="13px">Abrir no <a href="https://joseaugustogoncalves.github.io/cte-esjal-newsletter-1/" style="color:#000;" target="_blank">browser</a>.</mj-text>
+        <mj-text color="#000" align="center" font-family="UniversLTStd, Arial" font-size="13px">Abrir no <a href="https://joseaugustogoncalves.github.io/cte-esjal-newsletter-ex-1/" style="color:#000;" target="_blank">browser</a>.</mj-text>
       </mj-column>
     </mj-section>
 		<mj-section background-color="#ede9e8">
@@ -22,7 +22,7 @@
     </mj-section>
     <mj-section background-color="#ede9e8" padding="0">
       <mj-column width="100%">
-         <mj-text font-weight="bold" align="left" font-size="16px" color="#000" font-family="helvetica">CTE <i>Newsletter</i> #EX-1 (xxx 24)</mj-text>
+         <mj-text font-weight="bold" align="left" font-size="16px" color="#000" font-family="helvetica">CTE <i>Newsletter</i> #EX-1 (03 25)</mj-text>
         <mj-text align="left" color="#1D83A8" font-size="36px" line-height="40px" font-family="Alice, Helvetica, Arial, sans-serif">Campanha de Recolha de Telemoveis Android</mj-text>
       </mj-column>
     </mj-section>
